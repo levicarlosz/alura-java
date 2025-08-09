@@ -3,8 +3,6 @@
 *.iml
 *.iws
 
-**/.gitignore
-!.gitignore
 
 # Arquivos de build
 out/
