@@ -1,0 +1,29 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Arquivos de build
+out/
+target/
+build/
+
+# Compilados Java
+**/*.class
+**/*.jar
+**/*.war
+**/*.ear
+
+# Arquivos temporários de sistema/editor
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+**/*.log
+
+# Arquivos de configuração temporários
+**/*.tmp
+**/*.bak
